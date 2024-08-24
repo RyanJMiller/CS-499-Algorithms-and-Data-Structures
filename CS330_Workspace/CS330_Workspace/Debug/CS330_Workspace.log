@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\CS330_Workspace\main.cpp(269,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\CS330_Workspace\main.cpp(451,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\CS330_Workspace\main.cpp(452,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\CS330_Workspace\main.cpp(457,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\CS330_Workspace\main.cpp(458,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\CS330_Workspace\main.cpp(459,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\CS330_Workspace\main.cpp(460,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mesh.cpp
+  Generating Code...
+  CS330_Workspace.vcxproj -> C:\Users\jmram\Desktop\VSWorkspace\CS330_Workspace\Debug\CS330_Workspace.exe
